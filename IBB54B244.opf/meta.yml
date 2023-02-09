@@ -1,0 +1,16 @@
+id: IBB54B244
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:40:38.106387
+last_modified: 2023-02-09 14:40:38.106482
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: zh
+bases:
+  333F:
+    base_file: 333F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
